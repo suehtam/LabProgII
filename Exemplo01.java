@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exemplo01 
 {
-	public static void Main(String [] args)
+	public static void main(String [] args)
 	{
 		//comentarios simples - de uma unica linha
 	
