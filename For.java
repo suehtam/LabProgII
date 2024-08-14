@@ -2,7 +2,7 @@ package estruturaDeRepeticao;
 
 public class For 
 {
-	public static void Main(String [] args)
+	public static void main(String [] args)
 	{
 		for(int i = -10; i <= 10; i++)
 		{
