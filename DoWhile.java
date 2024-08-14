@@ -7,8 +7,9 @@ public class DoWhile
 		int i = 0;
 		do
 		{
-			System.out.println("Valor de i = i");
+			System.out.println("Valor de i = " + i);
+			i++;
 		}
-		while (i > 0);
+		while (i < 10);
 	}
 }
