@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exemplo02 
 {
-	public static void Main(String [] args)
+	public static void main(String [] args)
 	{
 		int numero = 10;
 		boolean paremenorque100;
