@@ -15,7 +15,7 @@ public class While
 			{
 				System.out.println(i + "nao e divisivel por 3");
 			}
-			i = i++;
+			i++;
 		}
 	}
 }
